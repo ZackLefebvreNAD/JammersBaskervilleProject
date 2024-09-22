@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Ecole/Apprentissages/CreativeJam/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Blocking_Level1.umap",
+				"F:/Ecole/Apprentissages/CreativeJam/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
 				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
 				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level1.umap",
 				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Player.uasset",
