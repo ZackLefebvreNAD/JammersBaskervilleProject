@@ -5,9 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
 				"F:/Creativejam_2024/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/movableObjectTemplate_Blueprint.uasset",
 				"F:/Creativejam_2024/JammersBaskervilleProject/BaseProject/TestInputProject/Content/level_2.umap",
+=======
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+				"F:/Ecole/Apprentissages/CreativeJam/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Blocking_Level1.umap",
+				"F:/Ecole/Apprentissages/CreativeJam/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
+=======
+				"C:/Users/willi/Desktop/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level2.umap",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
 				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level1.umap",
 				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Player.uasset",
