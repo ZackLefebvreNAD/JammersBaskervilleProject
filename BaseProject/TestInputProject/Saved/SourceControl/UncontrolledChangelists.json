@@ -1,0 +1,82 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+<<<<<<< Updated upstream
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
+				"F:/Creativejam_2024/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/movableObjectTemplate_Blueprint.uasset",
+				"F:/Creativejam_2024/JammersBaskervilleProject/BaseProject/TestInputProject/Content/level_2.umap",
+=======
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+				"F:/Ecole/Apprentissages/CreativeJam/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Blocking_Level1.umap",
+				"F:/Ecole/Apprentissages/CreativeJam/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
+=======
+				"C:/Users/willi/Desktop/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level2.umap",
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level1.umap",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Player.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_GameControls.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/movableObjectTemplate_Blueprint.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Temps/NewBlueprint.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/LevelBlockBPs/BP_DisappearingBox.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Level1.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/_GENERATED/gamejam/CubeGridToolOutput_D291BCBD.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Level1MESHHSHSH.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/criss_de_mesh.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Blocking_Level1.umap",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/BasicAsset01.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Box_Brush16_StaticMesh.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Box_Brush16_StaticMesh4.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Box_Brush17_StaticMesh.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Box_Brush17_StaticMesh2.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/_GENERATED/gamejam/CubeGridToolOutput_0890B2A8.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/_GENERATED/gamejam/CubeGridToolOutput_2A88B8ED.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/_GENERATED/gamejam/CubeGridToolOutput_4092B24E.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Fbx_Default_Material.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/M_Basic_Floor.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/M_Ground_Moss.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/WorldGridMaterial.uasset",
+				"F:/Ecole/Apprentissages/CreativeJam/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Sublevels_Level1/Blocking_Level1.umap",
+				"F:/Ecole/Apprentissages/CreativeJam/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Levels/Level1.umap",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Assets/BP_SkyBox.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_GameControls.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_SkyBox.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_Gamemode.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_Player.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_Play.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/LevelBlockBPs/BP_DisappearingBox.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/LevelBlockBPs/BP_InvisibleBlock.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Assets/InvisibleMaterial.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Levels/_GENERATED/gamejam/CubeGridToolOutput_192F1081.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Levels/_GENERATED/gamejam/CubeGridToolOutput_D373D5D4.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/LevelBlockBPs/BP_SlipperySurface.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level1.umap",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/LevelBlockBPs/BP_TeleportationDoor.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/LevelBlockBPs/BP_InteractionBlock.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/LevelBlockBPs/BP_NextLevel.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Player.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SM_MERGED_BP_Floor_C_114.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level2.umap",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_SlipperySurface.uasset",
+				"C:/Users/gamejam/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Character.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Assets/Sky.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Assets/BP_GameControls.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_Pawn.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_ControlledActor.uasset",
+				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Blueprints/BP_DisappearingBox.uasset"
+			]
+		}
+	]
+}
