@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level1.umap",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Player.uasset",
+				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_GameControls.uasset",
 				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Levels/Level1.umap",
 				"C:/Users/gamejam/Documents/Unreal Projects/TestInputProject/Content/MyContent/Assets/BP_SkyBox.uasset",
