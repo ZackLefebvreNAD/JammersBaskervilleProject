@@ -1,4 +1,4 @@
-﻿Log file open, 09/21/24 23:32:46
+Log file open, 09/21/24 23:32:46
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -153,11 +153,13 @@ LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
 LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
 LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin RigVM
 LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin SoundFields
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 LogPluginManager: Mounting Engine plugin Synthesis
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
@@ -252,6 +254,14 @@ LogInit: CreateHttpThread using FCurlHttpThread
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
+LogWindows: File 'WinPixGpuCapturer.dll' does not exist
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+LogStudioTelemetry: Display: Starting StudioTelemetry Module
+LogStudioTelemetry: Display: Created an analytics provider LogAnalytics from module AnalyticsLog configuration Engine [StudioTelemetry.Log]
+LogStudioTelemetry: Started StudioTelemetry Session
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.4-CL-35576357
 LogInit: Platform=WindowsEditor
