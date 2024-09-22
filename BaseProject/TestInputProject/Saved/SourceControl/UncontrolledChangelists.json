@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
 				"F:/Creativejam_2024/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/movableObjectTemplate_Blueprint.uasset",
 				"F:/Creativejam_2024/JammersBaskervilleProject/BaseProject/TestInputProject/Content/level_2.umap",
@@ -19,6 +20,28 @@
 				"C:/Users/willi/Desktop/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level2.umap",
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+>>>>>>> Stashed changes
+=======
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/footstep_indoor1.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/soundtrack_final.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/door_close.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/door_open.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/find_key.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/footstep_indoor2.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/footstep_indoor3.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/footstep_water1.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/footstep_water2.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/footstep_water3.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/heavy_furniture_move.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/keyboard_smash_final.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/keyboard_smash_single1.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/keyboard_smash_single2.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/locked_door_with_key.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/locked_door_without_key.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/portal1.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/portal2.uasset",
+				"C:/Users/dusti/Documents/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Assets/SoundAssets/ui_menu_hover_or_click.uasset",
 >>>>>>> Stashed changes
 				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Blueprints/BP_Floor.uasset",
 				"C:/Users/gamejam/Downloads/OldJammers/JammersBaskervilleProject/BaseProject/TestInputProject/Content/MyContent/Levels/Level1.umap",
